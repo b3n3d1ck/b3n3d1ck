@@ -16,7 +16,7 @@
 
 ---
 
-### Tentang saya
+### Tentang saya.
 
 Developer dari Indonesia. Kebanyakan waktu saya habis buat bikin bot, aplikasi web, dan API kecil-kecilan, lalu dibongkar lagi kalau ada yang bisa dibikin lebih rapi.
 
@@ -24,7 +24,7 @@ Developer dari Indonesia. Kebanyakan waktu saya habis buat bikin bot, aplikasi w
 - Pernah bikin aplikasi VoIP berbasis web dan sistem card lock dengan backend PHP
 - Terbuka buat kolaborasi, apalagi yang ada hubungannya sama otomasi atau keamanan
 
-### Tools yang dipakai
+### Tools yang dipakai.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,nodejs,react,laravel,mysql,git,linux,vscode&perline=13" alt="skills" />
