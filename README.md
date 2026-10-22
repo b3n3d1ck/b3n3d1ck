@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="bramcps — full-stack dev dari Indonesia" width="820">
+<img src="./assets/terminal.svg" alt="bramcps — security and web developer" width="860">
 
 <br>
 
-[![apasih.com](https://img.shields.io/badge/_-apasih.com-0d1117?style=flat-square&labelColor=0d1117&color=a3e635&logo=firefox-browser&logoColor=a3e635)](https://apasih.com)
-![profile views](https://komarev.com/ghpvc/?username=bramcps&style=flat-square&labelColor=0d1117&color=a3e635&label=views)
+**[apasih.com ↗](https://apasih.com)**
 
 </div>
 
