@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="bramcps — security and web developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="b3n3d1ck — security and web developer">
   <defs>
     <clipPath id="box"><rect x="1" y="1" width="898" height="338" rx="12"/></clipPath>
     <clipPath id="rev"><rect x="44" y="92" width="0" height="92"><animate attributeName="width" from="0" to="660" dur="0.55s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1" values="0;660"/></rect></clipPath>
@@ -42,19 +42,19 @@
     <text x="48" y="74" class="m r r1" font-size="13" fill="#39ff14"><tspan class="flick">┌─[ SYSTEM ONLINE ]</tspan>────────────────</text>
 
     <g clip-path="url(#rev)">
-      <text x="46" y="156" class="m title cy" font-size="60">BRAMCPS</text>
-      <text x="46" y="156" class="m title mg" font-size="60">BRAMCPS</text>
-      <text x="46" y="156" class="m title" font-size="60" fill="#eaf7ff" filter="url(#glow)">BRAMCPS</text>
+      <text x="46" y="156" class="m title cy" font-size="60">b3n3d1ck</text>
+      <text x="46" y="156" class="m title mg" font-size="60">b3n3d1ck</text>
+      <text x="46" y="156" class="m title" font-size="60" fill="#eaf7ff" filter="url(#glow)">b3n3d1ck</text>
     </g>
     <rect class="edge" x="44" y="92" width="3" height="92" opacity="0"><animate attributeName="x" from="44" to="700" dur="0.55s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1" values="44;700"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="0.7s" begin="0.15s" fill="freeze"/></rect>
 
     <text x="48" y="196" class="m r r2" font-size="16" fill="#8aa0b4">// security · web · automation — <tspan fill="#00eaff">Indonesia</tspan></text>
 
-    <text x="48" y="250" class="m" font-size="13" fill="#5f7183">root@bramcps:~# ./scan --self</text>
+    <text x="48" y="250" class="m" font-size="13" fill="#5f7183">root@b3n3d1ck:~# ./scan --self</text>
     <rect x="48" y="262" width="300" height="10" rx="2" fill="#0c1a12" stroke="#17351f"/>
     <rect x="48" y="262" width="300" height="10" rx="2" fill="#39ff14" class="fill" opacity="0.9"/>
     <text x="364" y="271" class="m granted" font-size="14" fill="#39ff14" font-weight="700" filter="url(#glow)">[ ACCESS GRANTED ]</text>
-    <text x="48" y="304" class="m" font-size="14" fill="#5f7183">root@bramcps:~# <tspan class="cur">█</tspan></text>
+    <text x="48" y="304" class="m" font-size="14" fill="#5f7183">root@b3n3d1ck:~# <tspan class="cur">█</tspan></text>
 
     <rect class="line" x="0" y="0" width="900" height="26" fill="url(#scan)" opacity="0.6"/>
     <rect x="0" y="0" width="900" height="340" fill="url(#vig)"/>
