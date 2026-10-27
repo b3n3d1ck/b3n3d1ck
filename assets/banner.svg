@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 210" width="880" height="210" role="img" aria-label="Abraham — b3n3d1ck, security and web developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1518"/>
+      <stop offset="1" stop-color="#121d20"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6cc3b0"/>
+      <stop offset="1" stop-color="#3f7f77"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="208" rx="18" fill="url(#bg)" stroke="#1c2a2e" stroke-width="1.5"/>
+  <rect x="34" y="40" width="5" height="130" rx="2.5" fill="url(#accent)"/>
+
+  <!-- subtle monospace watermark, top-right -->
+  <text x="846" y="40" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="12" fill="#2b4247">// authorized security research</text>
+
+  <text x="60" y="92" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="700" fill="#eaf2f1">Abraham</text>
+  <text x="62" y="122" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="17" fill="#6cc3b0">@b3n3d1ck<tspan fill="#5f6d72">  ·  security &amp; web developer · Indonesia</tspan></text>
+
+  <text x="62" y="160" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="14.5" fill="#8b979c">recon&#160;&#160;·&#160;&#160;webshell scanning&#160;&#160;·&#160;&#160;upload &amp; SQLi assessment&#160;&#160;·&#160;&#160;web apps</text>
+
+  <!-- soft accent dots -->
+  <circle cx="792" cy="150" r="4" fill="#6cc3b0" opacity="0.9"/>
+  <circle cx="808" cy="150" r="4" fill="#3f7f77" opacity="0.8"/>
+  <circle cx="824" cy="150" r="4" fill="#26413f" opacity="0.8"/>
+</svg>
