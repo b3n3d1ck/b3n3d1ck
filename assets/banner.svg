@@ -1,28 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 210" width="880" height="210" role="img" aria-label="Abraham — b3n3d1ck, security and web developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="Abraham — b3n3d1ck, security and web developer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0e1518"/>
-      <stop offset="1" stop-color="#121d20"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#0c1216"/>
+      <stop offset="1" stop-color="#080c0f"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#6cc3b0"/>
-      <stop offset="1" stop-color="#3f7f77"/>
+    <radialGradient id="glow" cx="26%" cy="38%" r="62%">
+      <stop offset="0" stop-color="#5fb3a3" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#5fb3a3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#223034"/>
+    </pattern>
+    <clipPath id="card"><rect x="0" y="0" width="880" height="220" rx="20"/></clipPath>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3f8f7"/>
+      <stop offset="1" stop-color="#cfe3df"/>
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="878" height="208" rx="18" fill="url(#bg)" stroke="#1c2a2e" stroke-width="1.5"/>
-  <rect x="34" y="40" width="5" height="130" rx="2.5" fill="url(#accent)"/>
+  <g clip-path="url(#card)">
+    <rect width="880" height="220" fill="url(#bg)"/>
+    <rect width="880" height="220" fill="url(#dots)" opacity="0.55"/>
+    <rect width="880" height="220" fill="url(#glow)"/>
+    <!-- faint scan rings peeking from the right -->
+    <g fill="none" stroke="#2e4247" stroke-width="1.2" opacity="0.55">
+      <circle cx="930" cy="110" r="80"/>
+      <circle cx="930" cy="110" r="128"/>
+      <circle cx="930" cy="110" r="176"/>
+    </g>
+    <circle cx="930" cy="110" r="3" fill="#6cc3b0" opacity="0.7"/>
+  </g>
+  <rect x="0.75" y="0.75" width="878.5" height="218.5" rx="19.5" fill="none" stroke="#18262a" stroke-width="1.5"/>
 
-  <!-- subtle monospace watermark, top-right -->
-  <text x="846" y="40" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="12" fill="#2b4247">// authorized security research</text>
-
-  <text x="60" y="92" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="700" fill="#eaf2f1">Abraham</text>
-  <text x="62" y="122" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="17" fill="#6cc3b0">@b3n3d1ck<tspan fill="#5f6d72">  ·  security &amp; web developer · Indonesia</tspan></text>
-
-  <text x="62" y="160" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="14.5" fill="#8b979c">recon&#160;&#160;·&#160;&#160;webshell scanning&#160;&#160;·&#160;&#160;upload &amp; SQLi assessment&#160;&#160;·&#160;&#160;web apps</text>
-
-  <!-- soft accent dots -->
-  <circle cx="792" cy="150" r="4" fill="#6cc3b0" opacity="0.9"/>
-  <circle cx="808" cy="150" r="4" fill="#3f7f77" opacity="0.8"/>
-  <circle cx="824" cy="150" r="4" fill="#26413f" opacity="0.8"/>
+  <text x="60" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-0.5" fill="url(#name)">Abraham</text>
+  <text x="62" y="140" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="17" fill="#6cc3b0">@b3n3d1ck<tspan fill="#64757a">   security &amp; web developer · Indonesia</tspan></text>
+  <text x="62" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#93a2a6">Recon, webshell scanning, and upload / SQL-injection assessment — plus the web apps around them.</text>
 </svg>
