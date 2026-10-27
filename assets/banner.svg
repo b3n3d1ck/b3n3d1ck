@@ -34,5 +34,5 @@
 
   <text x="60" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-0.5" fill="url(#name)">Abraham</text>
   <text x="62" y="140" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="17" fill="#6cc3b0">@b3n3d1ck<tspan fill="#64757a">   security &amp; web developer · Indonesia</tspan></text>
-  <text x="62" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#93a2a6">Recon, webshell scanning, and upload / SQL-injection assessment — plus the web apps around them.</text>
+  <text x="62" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#93a2a6">Recon, webshell scanning, upload / SQL-injection assessment, and the web apps around them.</text>
 </svg>
