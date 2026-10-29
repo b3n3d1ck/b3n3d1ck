@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Abraham — b3n3d1ck, security engineer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b0e"/><stop offset="1" stop-color="#04070a"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#19e6c4"/><stop offset="1" stop-color="#0a7d8f"/></linearGradient>
+  <linearGradient id="nm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4fffb"/><stop offset="1" stop-color="#9fe9db"/></linearGradient>
+  <radialGradient id="aura" cx="22%" cy="30%" r="70%"><stop offset="0" stop-color="#19e6c4" stop-opacity=".16"/><stop offset="1" stop-color="#19e6c4" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#10201f" stroke-width="1"/></pattern>
+  <clipPath id="card"><rect x="1" y="1" width="898" height="278" rx="18"/></clipPath>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#19e6c4" stop-opacity="0"/><stop offset=".5" stop-color="#19e6c4" stop-opacity=".22"/><stop offset="1" stop-color="#19e6c4" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#grid)" opacity=".5"/>
+  <rect width="900" height="280" fill="url(#aura)"/>
+  <g fill="none" stroke="#123733" stroke-width="1.1" opacity=".8">
+    <circle cx="820" cy="150" r="70"/><circle cx="820" cy="150" r="120"/><circle cx="820" cy="150" r="170"/>
+  </g>
+  <circle cx="820" cy="150" r="4" fill="#19e6c4"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <line x1="820" y1="150" x2="820" y2="80" stroke="#19e6c4" stroke-width="1.4" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 820 150" to="360 820 150" dur="6s" repeatCount="indefinite"/></line>
+  <rect x="0" y="0" width="900" height="34" fill="url(#scan)"><animate attributeName="y" from="-34" to="280" dur="5.5s" repeatCount="indefinite"/></rect>
+  <rect x="48" y="60" width="6" height="150" fill="url(#edge)"/>
+  <text x="74" y="118" font-family="'Segoe UI',system-ui,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1" fill="url(#nm)">Abraham</text>
+  <text x="76" y="152" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="17" fill="#19e6c4">@b3n3d1ck<tspan fill="#5a6f72">  ~  security engineer · Indonesia</tspan></text>
+  <text x="76" y="188" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14.5" fill="#8fa3a6">$ build --kind tool,bot,recon  <tspan fill="#19e6c4">--guess false</tspan></text>
+  <g font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12.5">
+    <g transform="translate(76,206)"><rect width="128" height="24" rx="4" fill="#19e6c4" fill-opacity=".08" stroke="#19e6c4" stroke-opacity=".35"/><text x="14" y="16" fill="#9fe9db">offensive recon</text></g>
+    <g transform="translate(214,206)"><rect width="118" height="24" rx="4" fill="#19e6c4" fill-opacity=".08" stroke="#19e6c4" stroke-opacity=".35"/><text x="14" y="16" fill="#9fe9db">webshell hunt</text></g>
+    <g transform="translate(342,206)"><rect width="96" height="24" rx="4" fill="#19e6c4" fill-opacity=".08" stroke="#19e6c4" stroke-opacity=".35"/><text x="14" y="16" fill="#9fe9db">automation</text></g>
+  </g>
+</g>
+<rect x="1" y="1" width="898" height="278" rx="18" fill="none" stroke="#15302e" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 150" width="440" height="150" role="img" aria-label="nightjar">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1114"/><stop offset="1" stop-color="#07090b"/></linearGradient>
+ <linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffcb7a"/><stop offset="1" stop-color="#d88933"/></linearGradient>
+ <clipPath id="c"><rect x="1" y="1" width="438" height="148" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="438" height="148" rx="14" fill="url(#bg)" stroke="#3b2c1c" stroke-width="1.4"/>
+<g clip-path="url(#c)">
+ <rect x="0" y="0" width="5" height="150" fill="url(#ac)"/>
+ <g fill="none" stroke="#3a2b1d" stroke-width="1"><path d="M265 38h160"/><path d="M265 58h120"/><path d="M265 78h145"/><path d="M265 98h90"/><path d="M265 118h132"/></g>
+ <g fill="#d88933"><circle cx="278" cy="38" r="3"/><circle cx="278" cy="58" r="3"/><circle cx="278" cy="78" r="3"/></g>
+ <rect x="0" y="0" width="440" height="2" fill="#ffcb7a" opacity=".3"><animate attributeName="y" values="0;150;0" dur="8s" repeatCount="indefinite"/></rect>
+</g>
+<text x="26" y="42" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#ffcb7a">findings/</text>
+<text x="112" y="42" font-family="'Segoe UI',system-ui,Arial,sans-serif" font-size="20" font-weight="800" fill="#fff4e5">nightjar</text>
+<text x="26" y="74" font-family="'Segoe UI',system-ui,Arial,sans-serif" font-size="13.5" fill="#c4b8a5">Workspace untuk membaca temuan keamanan</text>
+<text x="26" y="94" font-family="'Segoe UI',system-ui,Arial,sans-serif" font-size="13.5" fill="#c4b8a5">web: risiko, bukti, dan perbaikan.</text>
+<circle cx="30" cy="122" r="5" fill="#3178C6"/>
+<text x="42" y="127" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12.5" fill="#b8a88e">TypeScript</text>
+<text x="414" y="127" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11.5" fill="#806540">review desk</text>
+</svg>
