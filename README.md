@@ -28,18 +28,6 @@
 </tr>
 </table>
 
-<br>
-
-<p align="center"><sub>ACTIVITY / 12 MONTHS</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b3n3d1ck/b3n3d1ck/main/assets/activity-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b3n3d1ck/b3n3d1ck/main/assets/activity-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/b3n3d1ck/b3n3d1ck/main/assets/activity-dark.svg" alt="contribution activity" />
-</picture>
-
-<br>
-
 <div align="center">
   <sub>Abraham · b3n3d1ck · Indonesia</sub>
 </div>
