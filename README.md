@@ -29,5 +29,5 @@
 </table>
 
 <div align="center">
-  <sub>Abraham · </b3n3d1ck> · 2026</sub>
+  <sub>Abraham · b3n3d1ck · 2026</sub>
 </div>
