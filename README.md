@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
   <sub>RECENT BUILDS</sub>
   <br>
