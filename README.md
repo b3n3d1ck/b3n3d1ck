@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/b3n3d1ck/b3n3d1ck/main/assets/header.svg" alt="Abraham — b3n3d1ck" />
+<img width="100%" src="https://raw.githubusercontent.com/b3n3d1ck/b3n3d1ck/main/assets/header.svg" alt="B3n3d1ck — b3n3d1ck" />
 
 <p>
   <code>tools</code> &nbsp; <code>bot</code> &nbsp; <code>web-security</code> &nbsp; <code>automation</code>
@@ -29,5 +29,5 @@
 </table>
 
 <div align="center">
-  <sub>Abraham · b3n3d1ck · 2026</sub>
+  <sub>B3n3d1ck · b3n3d1ck · 2026</sub>
 </div>
